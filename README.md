@@ -23,6 +23,7 @@ console.log("Hello world");
 * Sugestão do iPoop
 
 # 13:50 — Fim do Almoço & Mão na massa
+* Veredito: Aplicativo que trabalha com diversas deficiências utilizando jogos lúdicos, começando pelo Bingo
 * Bingo para usuário discalculistas com níveis (fácil e evoluindo, com operações matemáticas)
 
 Front-End | Back-End
