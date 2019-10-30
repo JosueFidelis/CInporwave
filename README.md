@@ -16,6 +16,9 @@ int main(){
  printf("Hello World");
 }
 ```
+```js
+console.log("Hello world");
+```
  
 * Sugestão do iPoop
 
